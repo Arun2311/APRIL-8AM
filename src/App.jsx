@@ -109,7 +109,8 @@ const[apidata,setapidata] = useState([])
 
  {/* <GrocceryList/> */}
 
- {/* <Navbar/> */}
+ <Navbar/>
+ <h1>Hey arunnnnnnnnnnnnnnnnnnnnnnnn</h1>
 
 
 <button className="btn btn-danger ms-5">paid</button>
