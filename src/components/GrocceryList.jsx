@@ -47,7 +47,7 @@ export default function GrocceryList() {
 
     const handleedit = async (datas) => {
 
-        let updatedata = prompt("update u r", datas.data)
+        let updatedata = prompt("update u r")
 
         let body = {
             id: datas.id,
@@ -76,6 +76,7 @@ export default function GrocceryList() {
                 </div>
             ))}
 
+<h1>Die</h1>
 
 
 
