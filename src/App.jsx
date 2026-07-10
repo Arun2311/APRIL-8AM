@@ -8,7 +8,6 @@ import TodoList from "./components/TodoList";
 import HookTwo from "./components/HookTwo";
 import HomeComp from "./components/HomeComp";
 import Card from "./components/Card";
-import "./app.css"
 import FormOne from "./components/FormOne";
 import Home from "./components/Home";
 import Product from "./components/Product";
